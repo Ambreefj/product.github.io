@@ -1,11 +1,11 @@
 /*Les polices*/
 /*Récupérer cette propriété sur Google fonts : https://fonts.google.com/*/
-h1, h2, h3, h4, h5, h6, i { font-family: 'Abril Fatface', cursive; }
-p { font-family: 'arial'; }
+h1, h2, h3, h4, h5, h6, i { font-family: 'Hind Siliguri', sans-serif; }
+p { font-family: 'Hind Siliguri', sans-serif; }
 
 /*La couleur dominante*/
-.circle, .navbar, .frame { border-color: #00898E; }
-h1, h2, h3, h4, h5, h6, i, .item { color: #00898E; }
+.circle, .navbar, .frame { border-color: #FF75A0; }
+h1, h2, h3, h4, h5, h6, i, .item { color: #FF75A0; }
 
 /*Le fond de couleur*/
 /*Récupérer ces propriétés sur Ui Gradients: https://uigradients.com*/
